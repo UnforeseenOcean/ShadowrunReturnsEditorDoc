@@ -14,7 +14,7 @@ The third folder contains the template for your characters. If you need a specif
 
 ## Editor notes
 - The "End game with epilogue and credits" option takes file names (text files in the `misc` folder), **not** raw text! This puzzled me for a long time.
-- The scene, quest item or dialogue cannot contain the word "meta". This also means `ch1-sc1-Item-Metal` is also invalid since it contains "meta" in the name. 
+- The scene, quest item or conversation name cannot contain the word "meta". This also means `ch1-sc1-Item-Metal` is also invalid since it contains "meta" in the name. 
 - If the Test Scene or compilation fails with blank error report, run "Validate Content Pack Dependencies". It will usually show what went wrong.
 
 
