@@ -21,5 +21,5 @@ The "End game with epilogue and credits" option takes file names (text files in 
 - Allow streaming of audio files from folders
   - This makes adding custom sounds and music very very significantly easier than using UABE and hacking one in
 - Make `art` folder by default
-- Formatting for the epilogue text or Rich Text Editor integration through Sciltilla, perhaps
+- Formatting for the epilogue text or Rich Text Editor integration through Scintilla, perhaps
 - More documentation
