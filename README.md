@@ -26,6 +26,8 @@ Put this file in `misc` folder. The formatting is as follows:
 - `h2#(text)`: Subtitle text (yellow font for SRR)
 - `nd#(text)|(text)`: Name list text, where the text after `|` is treated as job title
 
+As far as I know, the syntax is compatible with all games using Unity (Shadowrun Returns, SR:Dragonfall, SR:Hong Kong)
+
 ![Demo](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583860720.png "Formatting demo")
 
 The text data in the credits.txt in this example is as follows:
