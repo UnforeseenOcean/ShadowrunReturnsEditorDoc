@@ -26,7 +26,7 @@ Put this file in `misc` folder. The formatting is as follows:
 - `h2#(text)`: Subtitle text (yellow font for SRR)
 - `nd#(text)|(text)`: Name list text, where the text after `|` is treated as job title
 
-As far as I know, the syntax is compatible with all games using Unity (Shadowrun Returns, SR:Dragonfall, SR:Hong Kong)
+As far as I know, the syntax is compatible with all 3 SR games from Harebrained Schemes (Shadowrun Returns, SR:Dragonfall, SR:Hong Kong)
 
 ![Demo](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583860720.png "Formatting demo")
 
@@ -43,6 +43,22 @@ nd#Torbjorn Lindholm|Director
 Lead Artist
 Torbjorn Lindholm
 ```
+
+Additionally, each can act as evenly divided text columns when combined with `|`.
+For example:
+```
+t1#SHADOWRUN RETURNS
+
+h1#Harebrained Schemes
+
+h2#Creative Director|Executive Producer
+Jordan Weisman|Mitch Gitelman
+
+h2#Art Director|Technical Director|Producer
+Mike McCain|Chris Kohnert|Brian Poel
+```
+Results in:
+![SRR Credits Example](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583861907.png "SRR Credits")
 
 ## Improvements
 - Add "Load external resources" option
