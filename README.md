@@ -58,6 +58,7 @@ h2#Art Director|Technical Director|Producer
 Mike McCain|Chris Kohnert|Brian Poel
 ```
 Results in:
+
 ![SRR Credits Example](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583861907.png "SRR Credits")
 
 ## Improvements
