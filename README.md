@@ -18,6 +18,29 @@ The third folder contains the template for your characters. If you need a specif
 - If the Test Scene or compilation fails with blank error report, run "Validate Content Pack Dependencies". It will usually show what went wrong.
 - Weirdly, the editor *does* read all files in the directory, regardless of its usability; You have to make sure you aren't putting any weird files into the folders, even if it's your own folder. Else, it will cause errors.
 
+## credits.txt
+Put this file in `misc` folder. The formatting is as follows:
+`(text)`: Unformatted text, centered
+`t1#(text)`: Title text
+`h1#(text)`: Header text (bigger version of `h2#`)
+`h2#(text)`: Subtitle text (yellow font for SRR)
+`nd#(text)|(text)`: Name list text, where the text after `|` is treated as job title
+
+![Demo](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583860720.png "Formatting demo")
+
+The text data in the credits.txt in this example is as follows:
+```
+t1#Escape Velocity 
+
+h1#by Blackbeard Gameworks
+
+h2#Project Leads
+
+nd#Torbjorn Lindholm|Director
+
+Lead Artist
+Torbjorn Lindholm
+```
 
 ## Improvements
 - Add "Load external resources" option
