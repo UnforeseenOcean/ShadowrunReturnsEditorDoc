@@ -61,6 +61,8 @@ Results in:
 
 ![SRR Credits Example](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583861907.png "SRR Credits")
 
+If you want to find the source, it's in `resources.assets` as `Credits` (filter by `TextAsset` in UABE)
+
 ## Improvements
 - Add "Load external resources" option
   - Example syntax: `Load (things\00_placeholder.wav) as (sound)`
