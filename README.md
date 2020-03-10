@@ -69,3 +69,10 @@ Results in:
 - Make `art` folder by default
 - Formatting for the epilogue text or Rich Text Editor integration through Scintilla, perhaps
 - More documentation
+
+# Credits
+
+- DaveOfDeath - The God of UGC
+- Armitage - Excellence in Physical Form
+- TokenWhyBoy - Poetic Mastermind
+- betrok - Lord-Protector of the Earth
