@@ -20,11 +20,11 @@ The third folder contains the template for your characters. If you need a specif
 
 ## credits.txt
 Put this file in `misc` folder. The formatting is as follows:
-`(text)`: Unformatted text, centered
-`t1#(text)`: Title text
-`h1#(text)`: Header text (bigger version of `h2#`)
-`h2#(text)`: Subtitle text (yellow font for SRR)
-`nd#(text)|(text)`: Name list text, where the text after `|` is treated as job title
+- `(text)`: Unformatted text, centered
+- `t1#(text)`: Title text
+- `h1#(text)`: Header text (bigger version of `h2#`)
+- `h2#(text)`: Subtitle text (yellow font for SRR)
+- `nd#(text)|(text)`: Name list text, where the text after `|` is treated as job title
 
 ![Demo](https://raw.githubusercontent.com/UnforeseenOcean/ShadowrunReturnsEditorDoc/master/img/IMG1583860720.png "Formatting demo")
 
