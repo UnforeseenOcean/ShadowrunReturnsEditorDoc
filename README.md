@@ -8,7 +8,7 @@ There are three major folders you would be interested in:
 
 The first holds the artwork you can use in your quest items and portraits for characters. File format must be PNG. I haven't tested the maximum resolution but I think it should be less than 1024x1024px just to be safe.
 
-The portrait files must NOT contain any alpha channel. That is, it must be completely opaque. If it contains ANY transparent pixel, it will cause the game to crash.
+The portrait files must NOT contain any alpha channel. That is, it must be completely opaque. If it contains ANY transparent pixel, it will cause the game to crash. It also MUST be the exact dimension to the original artwork (212x278px, 72dpi).
 
 The second folder can contain files for your epilogue (they must be `.txt` format -- no RTF text! e.g. `ending_good.txt`) and credit text to be prepended to the credits roll (must be named `credits.txt`)
 
